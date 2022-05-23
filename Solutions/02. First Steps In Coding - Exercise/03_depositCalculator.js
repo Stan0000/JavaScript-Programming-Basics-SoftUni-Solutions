@@ -1,4 +1,4 @@
-function calculateDeposits (input) {
+function calculateDeposits(input) {
     let deposit = Number(input[0]);
     let time = Number(input[1]);
     let interest = Number(input[2]) / 100;
