@@ -1,4 +1,4 @@
-function sumSeconds (input) {
+function sumSeconds(input) {
     let firstTime = Number(input[0]);
     let secondTime = Number(input[1]);
     let thirdTime = Number(input[2]);
