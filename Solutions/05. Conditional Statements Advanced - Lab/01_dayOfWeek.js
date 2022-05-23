@@ -1,4 +1,4 @@
-function dayOfWeek (input) {
+function dayOfWeek(input) {
     let number = Number(input[0]);
 
 switch(number){
